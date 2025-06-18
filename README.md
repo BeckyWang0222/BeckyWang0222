@@ -1,7 +1,5 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! 
-
-I code, I commit, I forget to push. Welcome to my digital chaos.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I code, I commit, I forget to push. Welcome to my digital chaos.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 800px; margin: 0 auto; min-height: 200px;">
   <!-- Pacman GIF 图片 -->
