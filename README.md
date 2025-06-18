@@ -13,23 +13,22 @@
   </a>
 </div>
 
-<!--<img align="right" alt="GIF" src="./code.gif" width="500" height="320" /> -->
+### 👨‍🎓 Graduate Student | Event Cameras | 3DGS & 4DGS Researcher
+Hello! I'm a graduate student specializing in event cameras, 3D geometric scenes (3DGS), and 4D geometric scenes (4DGS). My research focuses on exploring cutting-edge applications of event-driven vision systems, aiming to revolutionize perception and scene understanding through high-speed, low-latency sensing technologies.
 
-### 🤓 Hey！I'm Becky Wang！
+- Event Cameras: Investigating novel algorithms for event-based motion estimation, object detection, and real-time SLAM.
+- 3DGS & 4DGS: Developing techniques to reconstruct and analyze dynamic 3D/4D geometric scenes, bridging spatial-temporal dimensions for immersive scene representations.
 
 
+### 💻 Technical Skills
 
+- 🌱 Programming Languages: Proficient in Python and MATLAB; skilled in basic C/C++ programming.
+- 🛠 Computer Vision Libraries: Experienced with OpenCV, PyTorch, and TensorFlow.
+- 📊 Mathematical Foundations: Strong background in linear algebra, probability theory, and optimization algorithms for geometric scene analysis.
+
+###  
 <!--
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
--->
-
-### 🛠 技术栈 | Tech Stack
-<!--
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 -->
 
 <details open> 
