@@ -59,9 +59,8 @@
 
 
 ### About Me 👩‍💻
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [公众号：视维几何 贝塔（暂未授权成功，尽请期待）]()
+- [CSDN:显然易证](https://blog.csdn.net/weixin_51128278)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
